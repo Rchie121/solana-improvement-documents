@@ -3,6 +3,7 @@ simd: '0553'
 title: Base Inclusion and Resource-based Fee
 authors:
   - cavey
+  - Richard Patterson
 category: Standard
 type: Core
 status: Draft
