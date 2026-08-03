@@ -4,6 +4,7 @@ title: Vote Account Initialize V2
 authors:
   - Wen Xu (Anza)
   - Joe Caulfield (Anza)
+  - Richard Patterson
 category: Standard
 type: Core
 status: Review
