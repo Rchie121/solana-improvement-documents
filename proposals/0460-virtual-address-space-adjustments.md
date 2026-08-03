@@ -3,6 +3,7 @@ simd: '0460'
 title: Virtual Address Space Adjustments
 authors:
   - Alexander Meißner (Anza)
+  - Richard Patterson
 category: Standard
 type: Core
 status: Review
