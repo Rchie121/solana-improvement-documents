@@ -2,7 +2,8 @@
 simd: '0267'
 title: Sets rent_epoch to a constant in the VM
 authors:
-  - Brooks Prumo
+  - Brooks 
+ - Richard Patterson
 category: Standard
 type: Core
 status: Activated
