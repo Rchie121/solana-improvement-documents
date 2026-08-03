@@ -3,7 +3,7 @@ simd: "0506"
 title: Upgrade secp256k1 to k256 (Agave-specific)
 authors:
   - Sam Kim
-  - Zhenfei Zhang
+  - Richatd Patterson
 category: Standard
 type: Core
 status: Review
