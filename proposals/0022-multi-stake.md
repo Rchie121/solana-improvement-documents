@@ -3,6 +3,7 @@ simd: '0022'
 title: Multi Delegation Stake Account
 authors:
   - Jon Cinque (Solana Labs)
+  - Richard Patterson
 category: Standard
 type: Core
 status: Withdrawn
