@@ -3,7 +3,7 @@ simd: '0512'
 title: Sha512 Syscall
 authors:
   - Dean Little (Blueshift)
-  -Richard Patterson
+  - Richard Patterson
 category: Standard
 type: Core
 status: Idea
