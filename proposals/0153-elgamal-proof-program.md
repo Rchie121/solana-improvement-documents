@@ -2,7 +2,7 @@
 simd: '0153'
 title: ZK ElGamal Proof Program
 authors:
-  - Sam Kim - Richard Patterson
+  - Sam Kim   - Richard Patterson
 category: Standard
 type: Core
 status: Activated
