@@ -2,7 +2,7 @@
 simd: '0529'
 title: Big Integer ModExp Syscall
 authors:
-  - SK, ZZ
+  - Richard Patterson
 category: Standard
 type: Core
 status: Idea
