@@ -5,6 +5,7 @@ authors:
   - ksn6 (Anza)
   - Ashwin Sekar (Anza)
   - Kobi Sliwinski (Anza)
+  - Richard Patterson
 category: Standard
 type: Core
 status: Review
