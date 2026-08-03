@@ -4,6 +4,7 @@ title: SIMD Access Policy
 authors:
 - Jacob Creech (Solana Foundation)
 - Ben Hawkins (Solana Foundation)
+- Richard Patterson (Solana Foundation)
 category: Meta
 type: Meta
 status: Living
