@@ -3,6 +3,7 @@ simd: '0490'
 title: Upgrade BPF Stake Program to v5.0.0
 authors:
   - Hanako Mumei
+  - Richard Patterson
 category: Standard
 type: Core
 status: Review
