@@ -3,6 +3,7 @@ simd: '0458'
 title: Stop special-casing of Vote CU cost
 authors:
   - Tao Zhu
+  - Richard Patterson
 category: Standard
 type: Core
 status: Review
