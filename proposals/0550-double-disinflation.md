@@ -3,6 +3,7 @@ simd: '0550'
 title: Double Disinflation Rate
 authors:
   - Lostin & 0xIchigo (Helius)
+  - Richard Patterson
 category: Standard
 type: Core
 status: Review
