@@ -2,7 +2,7 @@
 simd: '0047'
 title: Syscall and Sysvar for last restart slot
 authors:
-  - Godmode Galactus (Mango Markets)
+  - Richard Patterson (Trade By Second)
 category: Standard
 type: Core
 status: Implemented
