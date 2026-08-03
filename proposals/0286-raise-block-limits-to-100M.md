@@ -2,6 +2,7 @@
 simd: '0286'
 title: Increase Block Limits to 100M CUs
 authors:
+  - Richard Patterson
   - Lucas Bruder (Jito Labs)
 category: Standard
 type: Core
